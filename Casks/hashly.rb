@@ -1,6 +1,6 @@
 cask "hashly" do
-  version "0.2.2"
-  sha256 "4b9a0e991152a5e3670297f6c11ea10f8d6f3b790e1cd3d32eb2b438596897a2"
+  version "0.2.3"
+  sha256 "07efc290283100a779e2244cf9a693ca6fb317104ea8cfcee86df842cebdb86b"
 
   url "https://github.com/deanchanter/Hashly/releases/download/v#{version}/Hashly_#{version}_aarch64.dmg"
   name "Hashly"
